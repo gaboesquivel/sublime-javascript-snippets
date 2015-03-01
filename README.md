@@ -1,14 +1,5 @@
-# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-javascript-snippets.svg?branch=master)](https://travis-ci.org/zenorocha/sublime-javascript-snippets)
+# JavaScript Snippets for Sublime Text
 
-![Demo](https://cloud.githubusercontent.com/assets/398893/3528110/d55390be-078b-11e4-8587-db23277b50af.gif)
-
-## Install
-
-To install through [Package Control](http://wbond.net/sublime_packages/package_control),
-search for **JavaScript & NodeJS Snippets**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation).
-It's pure awesomeness.
-
-If you prefer to install it manually, you can download the package and put it inside your `Packages` directory. It should work but will not update automatically.
 
 ## Console
 
@@ -327,19 +318,3 @@ alert('${1:msg}');
 ```javascript
 prompt('${1:msg}');
 ```
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-Check [Releases](https://github.com/zenorocha/sublime-javascript-snippets/releases) for detailed changelog.
-
-## License
-
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
