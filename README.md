@@ -307,6 +307,14 @@ it('${1:description}');
 'use strict';
 ```
 
+### [try] try catch
+
+```javascript
+try {
+  ${1:}
+} catch (e) { ${2:} }
+```
+
 ### [al] alert
 
 ```javascript
