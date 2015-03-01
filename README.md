@@ -185,7 +185,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ```
 
-### [iife] immediately-invoked function expression
+### [ii] immediately-invoked function expression
 
 ```javascript
 (function(window, document, undefined) {

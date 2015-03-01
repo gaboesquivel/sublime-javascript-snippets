@@ -4,7 +4,7 @@
 	${1}
 })(window, document);
 ]]></content>
-	<tabTrigger>iife</tabTrigger>
+	<tabTrigger>ii</tabTrigger>
 	<scope>source.js</scope>
 	<description>immediately-invoked function expression</description>
 </snippet>
