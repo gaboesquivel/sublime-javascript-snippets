@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+switch (${1:condition}) {
+    case ${2:label1}:
+      ${3:statement1}
+      ${4:break;}
+    case ${5:label1}:
+      ${6:statement1}
+      ${7:break;}
+    default:
+      ${8:defaultStatement}
+      ${9:break;}
+}
+]]></content>
+	<tabTrigger>switch</tabTrigger>
+	<scope>source.js</scope>
+	<description>javascript switch</description>
+</snippet>
